@@ -14,5 +14,114 @@ Add your timetable
 Execute the program
 
 # CODE
+timetable.html
 
-# OUPUT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Slot Timetable</title>
+</head>
+<body>
+<center>
+<img src="/static/images/logo.png" height="100" width="540">
+</center>
+<br>
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<caption><b>SLOT TIME TABLE - KAVYA.K (22008613)</b></caption>
+<tr align="center">
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="yellow">Thursday</th>
+<th bgcolor="yellow">Friday</th>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">8-10</th>
+<td>FREE SLOT</td>
+<td>C EN</td>
+<td>FREE SLOT</td>
+<TD>C EN</TD>
+<td>FREE SLOT</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">10-12</th>
+<td>WEB </td>
+<td>MAT</td>
+<td>PYTH</td>
+<td>EDM</td>
+<td>pyth</td>
+</tr>
+<tr>
+<th bgcolor="yellow">12-1</th>
+<td colspan="5" align="center">L U N C H</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">1-3</th>
+<td >soft skill</td> 
+<td>WEB</td>
+<td>WEB</td>
+<td>EMECH</td>
+<td> FREE SLOT</td>
+</tr>
+<tr align="center">
+<th bgcolor="yellow">3-5</th>
+<td colspan="2"> FREE SLOT </td>
+<td>EMECH</td>
+<td>MAT</td>
+<td>EDM</td>
+</tr>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals of Web Application Development (FWAD)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19AI301/221</td>
+<td>Python linear algebra(pyth)</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19EN101</td>
+<td>comunicative english(C EN)</td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19MA220</td>
+<td>Maths for AI (MAT)</td>
+</tr>
+<tr>
+<td align="center">6.</td>
+<td align="center">19EY701</td>
+<td>Soft Skills (SS)</td>
+</tr>
+<tr>
+<td align="center">7.</td>
+<td align="center">19AI302</td>
+<td>Engineering design modeling(EDM)</td>
+</tr>
+<tr>
+<td align="center">8.</td>
+<td align="center">19AI303</td>
+<td>Engineering mechanics(EMECH)</td>
+</tr>
+</table>
+</body>
+</html>
+
+## OUPUT
+![](slot.png)
+
+## result
+The timetable for my solt is successfully created
