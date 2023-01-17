@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-timetable
+
 
 
 <!DOCTYPE html>
@@ -121,6 +121,7 @@ timetable
 </body>
 </html>
 
+![](timeslot.png)
 ## CODE
 ![](time1.png)
 ![](time2.png)
