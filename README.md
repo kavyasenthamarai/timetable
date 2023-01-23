@@ -15,7 +15,7 @@ Execute the program
 
 # CODE
 
-
+```python
 
 <!DOCTYPE html>
 <html lang="en">
@@ -120,11 +120,9 @@ Execute the program
 </table>
 </body>
 </html>
+```
 
-![](timeslot.png)
-## CODE
-![](time1.png)
-![](time2.png)
+
 ## OUPUT
 ![](slot.png)
 
